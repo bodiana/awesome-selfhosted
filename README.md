@@ -1435,6 +1435,8 @@ Software that does not fit in another section.
 - [Libre Translate](https://libretranslate.com/) - Machine Translation API. ([Source Code](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`
 - [LubeLogger](https://lubelogger.com) - Web-based vehicle maintenance and fuel mileage tracker. ([Demo](https://github.com/hargata/lubelog?tab=readme-ov-file#demo), [Source Code](https://github.com/hargata/lubelog)) `MIT` `Docker/K8S/C#`
 - [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code](https://github.com/mosparo/mosparo)) `MIT` `PHP`
+- [MyIPNow](https://myipnow.net) — Free IP lookup, DNS, WHOIS, blacklist, and speed-test tools focused on privacy.
+
 - [MyIP](https://ipcheck.ing) `⚠` - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. ([Demo](https://ipcheck.ing), [Source Code](https://github.com/jason5ng32/MyIP)) `MIT` `Nodejs/Docker`
 - [MySpeed](https://myspeed.dev/) - Speed test analysis software that shows your internet speed for up to 30 days. ([Source Code](https://github.com/gnmyt/myspeed)) `MIT` `Docker/Nodejs`
 - [Neko](https://neko.m1k1o.net) - Virtual browser that runs in docker and uses WebRTC. ([Source Code](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
